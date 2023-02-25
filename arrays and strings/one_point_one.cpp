@@ -30,6 +30,5 @@ bool isUnique(string str){
         }
         checker |= (1 << val);
     }
-
     return true;
 }

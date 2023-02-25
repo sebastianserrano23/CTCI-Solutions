@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
 #include <unordered_set>
-using std::cout;
-using std::endl;
 using std::unordered_set;
 
 bool isUnique(const std::string& str){
